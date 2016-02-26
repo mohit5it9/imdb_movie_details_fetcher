@@ -1,0 +1,17 @@
+{
+  "name": "imdb_movie_details_fetcher",
+  "version": "1.0.0",
+  "description": "fetches movie title,year and rating from imdb. just a basic web crawler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mohit5it9",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "express": "^4.13.4",
+    "fs": "0.0.2",
+    "request": "^2.69.0"
+  }
+}
